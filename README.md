@@ -43,7 +43,16 @@
 ### Let's Connect :sparkles:
 
 <p align="center">
-	<a href="https://github.com/itsketii"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ketsia-marie-aude-affoua-kouadio"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/_its__kety"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://github.com/itsketii">
+    <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ketsia-marie-aude-affoua-kouadio">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_its__kety">
+    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/_its__kety">
+    <img src="https://img.shields.io/badge/Twitter-6A0DAD?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
