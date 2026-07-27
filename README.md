@@ -32,8 +32,8 @@
 
 <p align="center">
   <a href="https://github.com/itsketii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsketii&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsketii&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-jade-tau-21.vercel.app/api?username=itsketii&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-jade-tau-21.vercel.app/api/top-langs/?username=itsketii&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
