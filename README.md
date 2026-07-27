@@ -6,7 +6,6 @@
 
 ### Hi there, je suis Ketsia 👋
 
-- 🔭 Je travaille actuellement sur **OrientCI**, une app mobile de gestion transparente des affectations d'enseignants
 - 🌱 J'apprends en ce moment **SQL, les bases de données, Django, Odoo et Git/GitHub**
 - 🙋‍♀️ Je cherche de l'aide sur : **backend & bases de données**
 - 💬 Pose-moi des questions sur : **Flutter, Python, le développement mobile**
