@@ -55,3 +55,9 @@
     <img src="https://img.shields.io/badge/Twitter-6A0DAD?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" />
+
+</div>
