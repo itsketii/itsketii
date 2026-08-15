@@ -4,13 +4,14 @@
 
 </div>
 
-### Hi there, je suis Ketsia 👋
+### Salut, moi c'est Ketsia 👋
 
-- 🌱 J'apprends en ce moment **SQL, les bases de données, Django, Odoo et Git/GitHub**
+- 🌱 En ce moment j'apprends : **SQL, les bases de données, Django, Odoo et Git/GitHub**
 - 🙋‍♀️ Je cherche de l'aide sur : **backend & bases de données**
 - 💬 Pose-moi des questions sur : **Flutter, Python, le développement mobile**
-- 📫 Comment me contacter : **ketsia.kouadio@iit.ci**
+- 💼 Je voudrais être : **Data engineer**
 - ⚡ Fun fact : je joue aux jeux vidéo dès que je ne code plus
+- 📫 Comment me contacter : **ketsia.kouadio@iit.ci**
 
 <br/>
 
@@ -26,7 +27,7 @@
 
 <div align="center">
   <h4>
-    🚀 Objectif : major de promotion 🚀
+    🚀 Objectif : obtenir mon diplôme 🚀
   </h4>
 </div>
 
@@ -39,7 +40,7 @@
 
 <br/>
 
-### Let's Connect :sparkles:
+### Apprenons à mieux nous connaître :sparkles:
 
 <p align="center">
   <a href="https://github.com/itsketii">
