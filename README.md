@@ -6,7 +6,7 @@
 
 ### Salut, moi c'est Ketsia 👋
 
-- 🌱 En ce moment j'apprends : **SQL, les bases de données, Django, Odoo et Git/GitHub**
+- 🌱 En ce moment j'apprends : **SQL, les bases de données, Django, Odoo, Docker et Git/GitHub**
 - 🙋‍♀️ Je cherche de l'aide sur : **backend & bases de données**
 - 💬 Pose-moi des questions sur : **Flutter, Python, le développement mobile**
 - 💼 Je voudrais être : **Data engineer**
