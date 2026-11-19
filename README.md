@@ -12,6 +12,7 @@
 - 💼 Je voudrais être : **Data engineer**
 - ⚡ Fun fact : je joue aux jeux vidéo dès que je ne code plus
 - 📫 Comment me contacter : **ketsia.kouadio@iit.ci**
+- 🌐 Portfolio : **https://itsketii.github.io/Projet-4-PORTFOLIO/**
 
 <br/>
 
