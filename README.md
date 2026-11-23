@@ -33,10 +33,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/itsketii">
-    <img height="180em" src="https://github-readme-stats-jade-tau-21.vercel.app/api?username=itsketii&show_icons=true&theme=tokyonight&cache_seconds=1"/>
-    <img height="180em" src="https://github-readme-stats-jade-tau-21.vercel.app/api/top-langs/?username=itsketii&layout=compact&theme=tokyonight&cache_seconds=1"/>
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=itsketii&theme=midnight-purple&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api?username=itsketii&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsketii&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />  
 </p>
 
 <br/>
