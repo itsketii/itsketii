@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40" role="img" aria-label="Qualités"><title>Qualités</title><style>
+.lab{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:11px;letter-spacing:2px;fill:#c2b0ee}
+.lab2{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:10px;letter-spacing:1.5px;fill:#9885cf}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.blink{animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.sweep{animation:sw 7s linear infinite}
+@keyframes sw{from{transform:translateY(-70px)}to{transform:translateY(40px)}}
+@media (prefers-reduced-motion:reduce){.blink,.sweep{animation:none}}
+</style><defs>
+<pattern id="sl" width="4" height="3" patternUnits="userSpaceOnUse"><rect y="2" width="4" height="1" fill="#000" fill-opacity=".16"/></pattern>
+<linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d946ef" stop-opacity="0"/><stop offset=".5" stop-color="#d946ef" stop-opacity=".10"/><stop offset="1" stop-color="#d946ef" stop-opacity="0"/></linearGradient>
+</defs><clipPath id="c"><rect x="4" y="4" width="792" height="32" rx="10"/></clipPath>
+<rect x="4" y="4" width="792" height="32" rx="10" fill="#2a1658"/>
+<g clip-path="url(#c)"><rect x="4" y="4" width="792" height="32" fill="url(#sl)"/><rect class="sweep" x="4" y="4" width="792" height="70" fill="url(#sg)"/></g>
+<rect x="4.5" y="4.5" width="791" height="31" rx="10" fill="none" stroke="#7a60c9" stroke-opacity=".5"/><rect x="24" y="16" width="8" height="8" fill="#d946ef"/><text class="lab" x="40" y="24">QUALITÉS</text><text class="lab2" x="772" y="24" text-anchor="end">SOFT SKILLS</text></svg>
