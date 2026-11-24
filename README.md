@@ -16,7 +16,7 @@
 
 <img src="./assets/label-music.svg" width="100%" alt="Dernière écoute" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&cover_image=true&theme=novatorem&show_offline=true&background_color=7240db&interchange=false&profanity=false&hide_remaster=true&bar_color=7240db&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&cover_image=true&theme=novatorem&show_offline=false&background_color=7240db&interchange=false&profanity=false&hide_remaster=true&bar_color=7240db&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&redirect=true)
 
 <img src="./assets/label-contact.svg" width="100%" alt="Dis bonjour" />
 <br/>
