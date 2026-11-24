@@ -1,64 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Ketsia%20Kouadio&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-</div>
-
-### Salut, moi c'est Ketsia 👋
-
-- 🌱 En ce moment j'apprends : **SQL, les bases de données, Django, Odoo, Docker et Git/GitHub**
-- 🙋‍♀️ Je cherche de l'aide sur : **backend & bases de données**
-- 💬 Pose-moi des questions sur : **Flutter, Python, le développement mobile**
-- 💼 Je voudrais être : **Data engineer**
-- ⚡ Fun fact : je joue aux jeux vidéo dès que je ne code plus
-- 📫 Comment me contacter : **ketsia.kouadio@iit.ci**
-- 🌐 Portfolio : **https://itsketii.github.io/Projet-4-PORTFOLIO/**
+<a href="https://itsketii.github.io/Projet-4-PORTFOLIO/"><img src="./assets/hero.svg" width="524" alt="Kouadio Ketsia, développeuse full-stack" /></a><img src="./assets/side.svg" width="276" alt="En apprentissage et objectif" />
+<br/>
+<a href="https://itsketii.github.io/Projet-4-PORTFOLIO/"><img src="./assets/projects.svg" width="524" alt="Projets choisis" /></a><img src="./assets/stack.svg" width="276" alt="Stack technique" />
 
 <br/>
 
-### 🛠️ &nbsp;Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,dart,flutter,html,js,python,java" />
-</p>
-
-<br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <h4>
-    🚀 Objectif : obtenir mon diplôme 🚀
-  </h4>
-</div>
+<img src="./assets/label-analytics.svg" width="800" alt="GitHub analytics" />
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=itsketii&theme=midnight-purple&hide_border=true" />
     <img src="https://github-readme-stats.shion.dev/api?username=itsketii&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsketii&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />  
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsketii&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<img src="./assets/label-music.svg" width="800" alt="Dernière écoute" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&cover_image=true&theme=novatorem&show_offline=true&background_color=7240db&interchange=false&profanity=false&hide_remaster=true&bar_color=7240db&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vzizvh2i5xak4ngcbkct7t4ime&redirect=true)
+
+<img src="./assets/label-contact.svg" width="800" alt="Dis bonjour" />
 <br/>
-
-### Apprenons à mieux nous connaître :sparkles:
-
-<p align="center">
-  <a href="https://github.com/itsketii">
-    <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ketsia-marie-aude-affoua-kouadio">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_its__kety">
-    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_its__kety">
-    <img src="https://img.shields.io/badge/Twitter-6A0DAD?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" />
+<a href="mailto:ketsia.kouadio@iit.ci"><img src="./assets/link-email.svg" width="133" alt="Email" /></a><a href="https://itsketii.github.io/Projet-4-PORTFOLIO/"><img src="./assets/link-portfolio.svg" width="133" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/ketsia-marie-aude-affoua-kouadio"><img src="./assets/link-linkedin.svg" width="133" alt="LinkedIn" /></a><a href="https://github.com/itsketii"><img src="./assets/link-github.svg" width="133" alt="GitHub" /></a><a href="https://instagram.com/_its__kety"><img src="./assets/link-instagram.svg" width="133" alt="Instagram" /></a><a href="https://twitter.com/_its__kety"><img src="./assets/link-twitter.svg" width="133" alt="Twitter" /></a>
 
 </div>
